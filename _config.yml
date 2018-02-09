@@ -20,7 +20,7 @@ email: gutfeelingblog@gmail.com # add your Email address
 discus-identifier: gutfeelingblog # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-113875386-1 # Google Analytics
 
 # Build Settings
 markdown: kramdown
