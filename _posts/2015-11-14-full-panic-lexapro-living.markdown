@@ -6,7 +6,7 @@ img: pexels-photo-235621.jpg
 description: This blog entry is a rehash of some forum posts I made on the SurvivingAntidepressants forum in 2015-2016 while I was trialling a treatment with the Lexapro antidepressant as recommended by two of my doctors. I was in a very dark place that I have been able to climb my way out of about 80-90%. My substantial posts are reproduced below.
 ---
 
-This blog entry is a rehash of some forum posts I made on the SurvivingAntidepressants forum in 2015-2016 while I was trialling a treatment with the Lexapro antidepressant as recommended by two of my doctors. I was in a very dark place that I have been able to climb my way out of about 80-90%. My substantial posts are reproduced below. To get the full conversation context, check out [the full thread on SurvivingAntidepressants](https://survivingantidepressants.org/topic/10584-icebat-lexapro-escitalopram-withdrawal/):
+This blog entry is a rehash of some forum posts I made on the SurvivingAntidepressants forum in 2015-2016 while I was trialling a treatment with the Lexapro antidepressant as recommended by two of my doctors. I was in a very dark place that I have been able to climb my way out of about 80-90%. My substantial posts are reproduced below. To get the full conversation context, check out [the full thread on SurvivingAntidepressants](https://survivingantidepressants.org/topic/10584-icebat-lexapro-escitalopram-withdrawal/) (I'm Icebat).
 
 **Posted November 14, 2015:**
 

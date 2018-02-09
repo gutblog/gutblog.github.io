@@ -6,7 +6,7 @@ img: pexels-photo-46274.jpg
 description: This post is a reproduction of a SurvivingAntidepressants forum post I made in December 2017. It details my significant improvement once getting off of the antidepressant.
 ---
 
-This post is a reproduction of a SurvivingAntidepressants forum post I made in December 2017. It details my significant improvement once getting off of the antidepressant. To see the full context, including the responses to my post, I recommend you [check out the whole thread](http://survivingantidepressants.org/topic/10584-icebat-lexapro-escitalopram-withdrawal/?do=findComment&comment=320547)!
+This post is a reproduction of a SurvivingAntidepressants forum post I made in December 2017. It details my significant improvement once getting off of the antidepressant. To see the full context, including the responses to my post, I recommend you [check out the whole thread](http://survivingantidepressants.org/topic/10584-icebat-lexapro-escitalopram-withdrawal/?do=findComment&comment=320547) (I'm Icebat)!
 
 **Posted December 19, 2017:**
 
