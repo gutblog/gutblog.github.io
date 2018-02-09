@@ -1,0 +1,7 @@
+---
+layout: post
+title: Post 2 - From 2017
+date: 2017-01-01
+img: pexels-photo-46274.jpg
+description: Post 2 Description
+---
