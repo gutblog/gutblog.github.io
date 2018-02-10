@@ -6,7 +6,7 @@ img: pexels-photo-106877.jpg
 description: In May of 2017 I had a very bad stomach flu which put me in bed for two days. I heard norovirus was going around so maybe it was that. My digestion never recovered.
 ---
 
-I had been working part-time at my desk job for 9 months. Things seemed to be on the rise.
+I had been working part-time at my desk job for 9 months. Things seemed to be on a slow rise.
 
 In May of 2017 I had a very bad stomach flu which put me in bed for two days. I heard norovirus was going around so maybe it was that. My digestion never recovered. At the time I worked a relatively lenient job, and I would be constantly making trips to the bathroom with diarrhea. This went on for about two months with me having diarrhea every day, oblivious to the fact that diarrhea like that is something that you REALLY need to get checked out by a doctor.
 
