@@ -1,7 +1,7 @@
 title: Icebat's Gut Blog
 displaytitle: Icebat's Gut Blog
 description: > # this means to ignore newlines until "baseurl:"
-  I am a guy in my 20s trying to find fulfillment despite my chronic illness. After college graduation, my health took a dive. Over the next years I would experience crippling panic attacks, debilitating depression and anxiety, DP/DR, insomnia, and major digestive issues. Join me on my healing journey.
+  I am a guy in my 20s trying to find fulfillment in chronic illness. For years after college graduation, I would experience crippling panic attacks, debilitating depression and anxiety, DP/DR, insomnia, and major digestive issues. Join me on my healing journey.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gutblog.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -10,7 +10,7 @@ site-twitter: gutfeelingblog #if your site has a twitter account, enter it here
 # Author Settings
 author: Zachary Baker # add your name
 author-img: author-thumb.jpg # add your photo
-about-author: I am a guy in my 20s trying to find fulfillment despite my chronic illness. After college graduation, my health took a dive. Over the next years I would experience crippling panic attacks, debilitating depression and anxiety, DP/DR, insomnia, and major digestive issues. Join me on my healing journey.
+about-author: I am a guy in my 20s trying to find fulfillment in chronic illness. For years after college graduation, I would experience crippling panic attacks, debilitating depression and anxiety, DP/DR, insomnia, and major digestive issues. Join me on my healing journey.
 twitter: gutfeelingblog # add your Twitter handle
 #facebook: # add your Facebook handle
 #c_github: # add your Github handle

@@ -1445,3 +1445,7 @@ a.newer-posts:hover {
     font-size: 21px;
   }
 }
+
+.twitter-follow-button {
+    margin-top: 5px;
+}
