@@ -1449,3 +1449,8 @@ a.newer-posts:hover {
 .twitter-follow-button {
     margin-top: 5px;
 }
+
+a.site-title-link {
+    color: inherit;
+    text-decoration: inherit;
+}
