@@ -42,12 +42,7 @@
     <meta content="{{ tag }}" property="article:tag">
     {% endfor %}
   {% endif %}
-
-  {% if post.excerpt %}
-    <meta name="twitter:card" content="{{ post.excerpt }}">
-  {% else %}
-    <meta name="twitter:card" content="{{ page.description }}">
-  {% endif %}
+    <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@{{ site.site-twitter }}">
     <meta name="twitter:creator" content="@{{ site.twitter }}">
   {% if page.title %}
