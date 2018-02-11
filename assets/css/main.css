@@ -1455,3 +1455,7 @@ a.site-title-link {
     color: inherit;
     text-decoration: inherit;
 }
+
+a.site-title-link:hover {
+    text-decoration: underline;
+}
