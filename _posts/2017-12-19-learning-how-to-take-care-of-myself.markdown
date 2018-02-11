@@ -8,6 +8,8 @@ description: This post is a reproduction of a SurvivingAntidepressants forum pos
 
 This post is a reproduction of a SurvivingAntidepressants forum post I made in December 2017. It details my significant improvement once getting off of the antidepressant. To see the full context, including the responses to my post, I recommend you [check out the whole thread](http://survivingantidepressants.org/topic/10584-icebat-lexapro-escitalopram-withdrawal/?do=findComment&comment=320547) (I'm Icebat)!
 
+This post is a follow up to the previous post [Full Panic Lexapro Living - {{ site.title }}](../full-panic-lexapro-living/).
+
 **Posted December 19, 2017:**
 
 > Update: My last dose of Lexapro was on 4/16/2016, over a year and a half ago. My sleep finally improved once I insisted on a sleep study, was diagnosed with moderate Sleep Apnea and got a CPAP machine. For god's sake check your Vitamin D levels too, mine were really low. My lexapro-induced depression I would say is completely lifted, I feel optimistic and not depressed at all anymore, at least unless I forget to take my B vitamin. I am still working on other health stuff though.
