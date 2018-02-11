@@ -8,7 +8,7 @@ description: This post is a reproduction of a SurvivingAntidepressants forum pos
 
 This post is a reproduction of a SurvivingAntidepressants forum post I made in December 2017. It details my significant improvement once getting off of the antidepressant. To see the full context, including the responses to my post, I recommend you [check out the whole thread](http://survivingantidepressants.org/topic/10584-icebat-lexapro-escitalopram-withdrawal/?do=findComment&comment=320547) (I'm Icebat)!
 
-This post is a follow up to the previous post [Full Panic Lexapro Living - {{ site.title }}](../full-panic-lexapro-living/).
+This post is a follow up to my previous post [Full Panic Lexapro Living](../full-panic-lexapro-living/).
 
 **Posted December 19, 2017:**
 
