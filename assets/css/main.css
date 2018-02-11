@@ -1469,6 +1469,7 @@ a.follow-email {
     font-size: .75rem;
     text-decoration: none;
     border-radius: 3px;
+    font-weight: normal;
 }
 
 a.follow-email:hover {
