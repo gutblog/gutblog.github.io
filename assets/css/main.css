@@ -1459,3 +1459,18 @@ a.site-title-link {
 a.site-title-link:hover {
     text-decoration: underline;
 }
+
+a.follow-email {
+    text-transform: initial;
+    background-color: #b47474;
+    color: white;
+    padding: 3px 5px;
+    font-family: 'Lato', sans-serif;
+    font-size: .75rem;
+    text-decoration: none;
+    border-radius: 3px;
+}
+
+a.follow-email:hover {
+    background-color: #875858;
+}
