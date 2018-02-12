@@ -1460,18 +1460,30 @@ a.site-title-link:hover {
     text-decoration: underline;
 }
 
-a.follow-email {
-    text-transform: initial;
-    background-color: #b47474;
-    color: white;
+a.follow-button {
+    display: inline-block;
+    text-transform: initial;color: white;
     padding: 3px 5px;
     font-family: 'Lato', sans-serif;
     font-size: .75rem;
     text-decoration: none;
     border-radius: 3px;
     font-weight: normal;
+    margin-bottom: 8px;
+}
+
+a.follow-email {
+    background-color: #b47474;
 }
 
 a.follow-email:hover {
     background-color: #875858;
+}
+
+a.twitter-follow-button {
+    background-color: #1b95e0;
+}
+
+a.twitter-follow-button:hover {
+    background-color: #0c7abf;
 }
