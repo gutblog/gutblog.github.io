@@ -1447,6 +1447,8 @@ a.newer-posts:hover {
   }
 }
 
+/* Custom CSS */
+
 .twitter-follow-button {
     margin-top: 5px;
 }
@@ -1486,4 +1488,21 @@ a.twitter-follow-button {
 
 a.twitter-follow-button:hover {
     background-color: #0c7abf;
+}
+
+.page-image {
+    max-height: 500px;
+    object-fit: cover;
+}
+
+@media print {
+
+    .sidebar {
+        display: none;
+    }
+    
+    .content-box {
+        padding-left: initial;
+    }
+    
 }

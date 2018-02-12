@@ -28,6 +28,6 @@ I had an appointment with a very knowledgeable allergist who found a chronic sin
 
 Last Sunday I woke up very cold and feeling disoriented, my breath was labored and I was having lots of heart palpitations. I took my blood sugar and it was fine. Then I took my temperature and it was 96.1. Currently I am wearing a take-home heart monitor again, at the request of the urgent care doctor. Last time I had one of these was in 2015, but that’s a story for another day. I asked my allergist if I should continue the nasal spray when I recover and he said to hold off for now, and that he is “looking into some things”.
 
-Thanks to my incredibly supportive primary care doctor, I am now in connection with an M.D. who specializes in digestive issues and chronic fatigue. Together we have decided to try putting me on an Elemental Diet. The diet kit is in the mail and arriving soon. Since an Elemental Diet is a whole thing unto itself, I’m going to address that in the next post, which you can view here:
+Thanks to my incredibly supportive primary care doctor, I am now in connection with an M.D. who specializes in digestive issues and chronic fatigue. Together we have decided to try putting me on an Elemental Diet. The diet kit is in the mail and arriving soon. Since an Elemental Diet is a whole thing unto itself, I’m going to address that in an upcoming post, which you can view here:
 
 *(Next post coming soon)*
