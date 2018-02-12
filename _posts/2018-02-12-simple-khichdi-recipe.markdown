@@ -15,8 +15,8 @@ It turns out Khichdi is a pretty neat food from a scientific standpoint:
 * Balanced in carbohydrates, fat and protein
 * Contains all 9 essential amino acids, due to the marriage of rice and mung bean
 * Moderate glycemic index due to the use of long-grain rice
-* Naturally very low in lectins (mung bean), which aids digestibility
-* Uses husked rice and bean, which means the hardest-to-digest parts of each are thrown away
+* Naturally low in lectins (mung bean), which aids digestibility
+* Uses husked rice and bean, so the hardest-to-digest parts of each are thrown away
 
 They thought this stuff up over 600 years ago!
 
