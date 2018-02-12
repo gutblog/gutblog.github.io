@@ -14,7 +14,9 @@ layout: main
         <h1 class="page-title">{{page.title}}</h1>
         <div class="page-date"><span>{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
       </header>
+      {% include inline-nav.html %}
       {{page.content | markdownify}}
+      {% include inline-nav.html %}
       <div class="page-footer">
         <div class="page-share">
           <i class="fa fa-share-alt"></i>

@@ -1,0 +1,7 @@
+<nav class="inline-nav">
+    <a {% if page.previous.url %}href="{{ site.posts.last.url }}"{% else %}class="inline-nav-inactive"{% endif %}>&lt;&lt;- First</a>
+    <a {% if page.previous.url %}href="{{ page.previous.url }}"{% else %}class="inline-nav-inactive"{% endif %}>&lt;-Prev</a>
+    <a href="{{ site.baseurl }}/">Index</a>
+    <a {% if page.next.url %}href="{{ page.next.url }}"{% else %}class="inline-nav-inactive"{% endif %}>Next -&gt;</a>
+    <a {% if page.next.url %}href="{{ site.posts.first.url }}"{% else %}class="inline-nav-inactive"{% endif %}>Last -&gt;&gt;</a>
+</nav>
