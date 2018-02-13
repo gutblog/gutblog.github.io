@@ -3,7 +3,7 @@ layout: post
 title: Simple Khichdi Recipe
 date: 2018-02-12
 img: khichdi-1.jpg
-description: Here is the Khichdi recipe that my teacher shared with me. If you are having digestive issues I urge you to try the "2-day Khichdi Challenge" (as I've just named it so it will hopefully go viral 😉). If your digestion is upset, the first time you try it I recommend making it with the yellow mung dal rather than the lentils, and without a vegetable.
+description: Here is the Khichdi recipe that my teacher shared with me. If you are having digestive issues I urge you to try the &ldquo;2-day Khichdi Challenge&rdquo; (as I've just named it so it will hopefully go viral). If your digestion is upset, the first time you try it I recommend making it with the yellow mung dal rather than the lentils, and without a vegetable.
 ---
 
 > Khichdi (pronounced [ˈkʰɪtʃɽi]), or khichri, is a dish from the Indian subcontinent made from rice and lentils (dal), but other variations include bajra and mung dal kichri. In Indian culture, it is considered one of the first solid foods that babies eat. [&#8209;Wikipedia](https://en.wikipedia.org/wiki/Khichdi)
