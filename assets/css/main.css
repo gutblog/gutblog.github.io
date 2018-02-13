@@ -1503,13 +1503,13 @@ a.twitter-follow-button:hover {
 
 .inline-nav > * {
     display: inline-block;
-    margin: 0 10px;
     text-decoration: none;
     background-color: #9e9e9e;
     color: white;
     border-radius: 3px;
     padding: 3px 7px;
     font-size: .75rem;
+    margin: 0 3px;
 }
 
 .inline-nav > *:not(.inline-nav-inactive):hover {
