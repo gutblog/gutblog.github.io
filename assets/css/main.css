@@ -1526,6 +1526,7 @@ a.custom-twitter-follow-button:hover {
 }
 
 .author-description {
+    position: relative;
     padding-bottom: 15px;
 }
 
@@ -1546,11 +1547,12 @@ a.custom-twitter-follow-button:hover {
 }
 
 .about .author-description::after {
-    bottom: -15px;
+    bottom: -5px;
 }
-
-.sidebar {
-    overflow-y: auto;
+@media (min-width: 769px) {
+    .sidebar {
+        overflow-y: auto;
+    }
 }
 
 @media print {
