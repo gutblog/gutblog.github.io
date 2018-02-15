@@ -11,7 +11,7 @@ layout: default
       <div class="author-name">
           <a class="site-title-link" href="{{site.baseurl}}/">{{site.displaytitle}}</a>
           <br>
-          <a href="https://twitter.com/intent/user?screen_name=gutfeelingblog" class="twitter-follow-button follow-button"><i class="fa fa-twitter"></i>&nbsp;Follow @gutfeelingblog</a>
+          <a href="https://twitter.com/intent/user?screen_name=gutfeelingblog" class="custom-twitter-follow-button follow-button"><i class="fa fa-twitter"></i>&nbsp;Follow @gutfeelingblog</a>
           <br>
           <a class="follow-email follow-button" href="{{site.baseurl}}/email-sub/">
             <i class="fa fa-envelope"></i>&nbsp;&nbsp;Subscribe by Email
@@ -47,5 +47,13 @@ layout: default
   </footer> <!-- End Footer -->
 </aside> <!-- End Sidebar -->
 <div class="content-box clearfix">
-  {{ content }}
+  <div class="content-inner">
+    {{ content }}
+  </div>
+</div>
+<div class="right-box">
+<a class="twitter-timeline"
+      href="https://twitter.com/gutfeelingblog">
+Tweets by @twittername</a>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>

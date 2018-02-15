@@ -1482,11 +1482,11 @@ a.follow-email:hover {
     background-color: #875858;
 }
 
-a.twitter-follow-button {
+a.custom-twitter-follow-button {
     background-color: #1b95e0;
 }
 
-a.twitter-follow-button:hover {
+a.custom-twitter-follow-button:hover {
     background-color: #0c7abf;
 }
 
@@ -1523,6 +1523,40 @@ a.twitter-follow-button:hover {
 .header-page .page-date {
     font-size: inherit;
     color: #7a7a7a;
+}
+
+html, body, .wrapper {
+    height: 100%;
+}
+
+.wrapper {
+    max-width: 1510px;
+}
+
+.content-box {
+    padding-right: 240px;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 240px;
+}
+
+.right-box {
+    width: 240px;
+    position: fixed;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    overflow: auto;
+}
+
+.content-box {
+    height: 100%;
+}
+
+.content-inner {
+    overflow: auto;
+    height: 100%;
+    padding: 20px;
 }
 
 @media print {
