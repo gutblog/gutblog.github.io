@@ -30,4 +30,4 @@ Last Sunday I woke up very cold and feeling disoriented, my breath was labored a
 
 Thanks to my incredibly supportive primary care doctor, I am now in connection with an M.D. who specializes in digestive issues and chronic fatigue. Together we have decided to try putting me on an Elemental Diet. The diet kit is in the mail and arriving soon. Since an Elemental Diet is a whole thing unto itself, I’m going to address that in an upcoming post, which you can view here:
 
-*(Elemental diet post coming soon)*
+[The Elemental Diet - {{ site.title }}](../the-elemental-diet/)
