@@ -46,6 +46,8 @@ The plan from here on out:
 
 * Introduce more and more real food, one food group every 3 days or so
 
+* Try Alfalfa, Horsetail and Nettle tea as an antihistamine to see if it helps cognitively
+
 * Take the antibiotic Augmentin to try and clear up my sinus opacification
 
 * Start on the Visibiome probiotic, gradually ramping it up to an aggressive dose
